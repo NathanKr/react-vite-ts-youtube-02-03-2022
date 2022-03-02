@@ -1,1 +1,1 @@
-# react-vite-ts-youtube-02-03-2022
+repo for this <a href='https://www.youtube.com/watch?v=3E7U5ICqUcE'>video</a>
